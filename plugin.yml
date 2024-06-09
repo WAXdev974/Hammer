@@ -1,0 +1,5 @@
+name: Hammer
+version: 1.0.0
+main: wax\dev\Main
+api: 5.0.0
+author: wax_dev
